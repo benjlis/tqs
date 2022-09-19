@@ -1,7 +1,6 @@
 import argparse
 import pandas as pd
 from collections import Counter
-import PyPDF2
 import rmgarbage
 from rmgarbage import Rmgarbage
 
@@ -107,4 +106,3 @@ class improvingOCR:
 
             print(summaryTable)
             print()
-
