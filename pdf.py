@@ -1,5 +1,6 @@
 import argparse
 import pandas as pd
+import requests
 from collections import Counter
 import rmgarbage
 from rmgarbage import Rmgarbage
