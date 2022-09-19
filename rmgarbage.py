@@ -26,8 +26,6 @@ __license__ = 'MIT'
 __copyright__ = 'Copyright 2016 Tasdik Rahman'
 import re
 import requests
-from bs4 import BeautifulSoup
-#import urllib2
 
 
 class Rmgarbage(object):
@@ -207,4 +205,3 @@ class Rmgarbage(object):
         #elif self.googleResults(string):
             #return 'G'
         return False
-
